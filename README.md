@@ -1,11 +1,12 @@
 # Sistem Informasi Gudang
 
 ## Context
-Program Sistem Informasi Gudang ini merupakan proyek yang dibuat menggunakan bahasa pemrograman python. Program ini memungkinkan user untuk mencari dan menampilkan list barang yang ada di Gudang berdasarkan kata kunci tertentu. Program ini juga dapat menambah, memperbaharui, dan menghapus data yang ada pada list barang di Gudang. Tujuannya adalah untuk memudahkan pekerjaan admin Gudang dalam mengelola barang yang ada di Gudang.
+Program Sistem Informasi Gudang ini merupakan proyek yang dibuat menggunakan bahasa pemrograman python. Program ini memungkinkan user untuk mencari dan menampilkan list barang yang ada di Gudang berdasarkan kata kunci tertentu. Program ini juga dapat menambah, memperbaharui, dan menghapus data yang ada pada list barang di Gudang. Tujuannya adalah untuk memudahkan pekerjaan staff Gudang dalam mengelola barang yang ada di Gudang.
 
-## Key Features
+## Business Tasks
+### Key Features
 Menampilkan seluruh data atau sebagian data barang yang ada di Sistem Informasi Gudang. Mencari data tertentu berdasarkan kata kunci. Menambahkan data barang ke dalam Sistem Informasi Gudang. Memperbaharui data barang dan menghapus data barang yang ada pada Sistem Informasi Gudang.
-Objectives
+### Objectives
 Menyediakan Sistem Informasi yang dapat memudahkan dalam mengelola dan mengatur data barang yang ada di Gudang secara cepat dan efisien.
 
 ## Stakeholders
